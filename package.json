@@ -1,0 +1,22 @@
+{
+  "name": "minecraft-bots",
+  "version": "1.0.0",
+  "description": "Various minecraft bots made for slavery in survival mode. Why ? I hate mining for 2 hours but i can make a bot that will do that for me in approximately 2 weeks !!! How fun right!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CosmicNerd97/Minecraft-Bots.git"
+  },
+  "author": "CosmicNerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CosmicNerd97/Minecraft-Bots/issues"
+  },
+  "homepage": "https://github.com/CosmicNerd97/Minecraft-Bots#readme",
+  "dependencies": {
+    "mineflayer": "^4.27.0"
+  }
+}
